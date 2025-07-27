@@ -1,7 +1,3 @@
-Here’s a **professional, human-written README** for your OrangeHRM CRUD automation project. It’s written like a real QA automation engineer would document it for a GitHub repository:
-
----
-
 # **OrangeHRM – Admin User Management (CRUD) Automation**
 
 This project automates **Create, Read, Update, and Delete (CRUD)** functionality for the **Admin User Management** module of [OrangeHRM](https://opensource-demo.orangehrmlive.com/web/index.php/admin/viewSystemUsers) using **Cypress**.
